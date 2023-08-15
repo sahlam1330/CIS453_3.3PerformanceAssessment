@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.interests img {
+    width:100px;
+    height: 100px;
+    display: flex;
+}
+
+.home img {
+    display: flex;
+}
